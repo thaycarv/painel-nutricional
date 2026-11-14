@@ -89,7 +89,7 @@ Tanto os formulários importados quanto as anotações são classificados automa
 
 ## 🚀 Como Usar
 
-### Opção 1: Direto no Navegador (Web) — *Recomendado*
+### Opção 1: Direto no Navegador (Web, *Recomendado*)
 Basta acessar o link oficial hospedado no GitHub Pages:
 
 👉 **[https://painelnutricional.github.io/](https://painelnutricional.github.io/)**
@@ -146,7 +146,7 @@ O painel adota a estética exclusiva **Quiet Luxury**, combinando elegância ate
 
 A profissional pode alternar instantaneamente entre os dois ambientes no cabeçalho através do seletor **`Modo: 1 / 2`**:
 
-* 🧘 **Modo 1: Quiet Luxury (Claro — Padrão do Sistema):**
+* 🧘 **Modo 1: Quiet Luxury (Claro, Padrão do Sistema):**
   - **Atmosfera:** Serenidade, luminosidade suave e leitura confortável.
   - **Tipografia:** *Plus Jakarta Sans* para o logotipo e nomes de pacientes (proporcionando modernismo clínico suíço de alta precisão), combinada com *Outfit* para métricas e leitura clínica fluida.
   - **Paleta:** Fundo em tom pedra calcária/areia suave (`#F6F4EE`), cartões flutuantes em marfim perolado (`#FFFFFF` / `#FCFBF8`) e acentos refinados em eucalipto e argila.
@@ -191,7 +191,7 @@ Se este prontuário facilita o seu atendimento no consultório ou seus estudos a
 
 ## 👩‍⚕️ Autoria & Contato
 
-Idealizado e desenvolvido por **Thayâne Carvalho** — Nutricionista (*CRN10-14724*) e Engenheira de Produção, com foco em gestão de projetos, inovação e tecnologia aplicadas à saúde e ao impacto social.
+Idealizado e desenvolvido por **Thayâne Carvalho**, Nutricionista (*CRN10-14724*) e Engenheira de Produção, com foco em gestão de projetos, inovação e tecnologia aplicadas à saúde e ao impacto social.
 
 * 💼 **LinkedIn:** [linkedin.com/in/thaycc](https://www.linkedin.com/in/thaycc)
 * 🐙 **GitHub:** [github.com/thaycarv](https://github.com/thaycarv)
