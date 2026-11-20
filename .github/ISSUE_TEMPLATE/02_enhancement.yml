@@ -1,0 +1,19 @@
+name: ⚡ [Melhoria] Aprimoramento de Usabilidade ou Leitura
+description: Propor refinamento em interface, leitura de formulários ou documentação
+title: "[Melhoria]: "
+labels: ["enhancement", "melhoria"]
+body:
+  - type: textarea
+    id: current
+    attributes:
+      label: Situação Atual
+      description: Como a funcionalidade ou fluxo clínico opera hoje.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposta de Melhoria
+      description: Qual a melhoria sugerida e seu benefício para o atendimento nutricional.
+    validations:
+      required: true

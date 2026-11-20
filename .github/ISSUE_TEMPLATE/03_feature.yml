@@ -1,0 +1,19 @@
+name: 🚀 [Nova Função] Nova Funcionalidade
+description: Propor um novo recurso clínico, visualização ou melhoria no leitor de PDFs
+title: "[Nova Função]: "
+labels: ["feature", "nova função"]
+body:
+  - type: textarea
+    id: goal
+    attributes:
+      label: Objetivo da Nova Função
+      description: Qual necessidade do acompanhamento nutricional essa funcionalidade atende.
+    validations:
+      required: true
+  - type: textarea
+    id: requirements
+    attributes:
+      label: Requisitos e Regras de Uso
+      description: Detalhe como a nova função deve se comportar respeitando privacidade local (LGPD).
+    validations:
+      required: true

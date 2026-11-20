@@ -24,10 +24,11 @@
   * [Opção 2: No Computador (Offline)](#opção-2-no-computador-100-offline)
 * [📖 Guia de Operação do Prontuário](#-guia-de-operação-do-prontuário)
   * [1. Cadastrar Paciente e Importar Formulários](#1-cadastrar-paciente-e-importar-formulários)
-  * [2. Acompanhamento Contínuo de Consultas e Retornos](#2-acompanhamento-contínuo-de-consultas-e-retornos)
-  * [3. Exclusão de Formulários Enviados por Engano](#3-exclusão-de-formulários-enviados-por-engano)
-  * [4. Sistema de Backup Portátil (JSON)](#4-sistema-de-backup-portátil-json)
-* [🎨 Temas e Conforto Visual (WCAG)](#-temas-e-conforto-visual-wcag)
+  * [2. Navegação em 4 Abas Clínicas Especializadas](#2-navegação-em-4-abas-clínicas-especializadas)
+  * [3. Barra de Ações Rápidas no Cabeçalho](#3-barra-de-ações-rápidas-no-cabeçalho)
+  * [4. Exclusão de Formulários Enviados por Engano](#4-exclusão-de-formulários-enviados-por-engano)
+  * [5. Sistema de Backup Portátil (JSON)](#5-sistema-de-backup-portátil-json)
+* [🎨 Estúdios de Design Visual (Modo: 1 / 2)](#-estúdios-de-design-visual-modo-1--2)
 * [💻 Arquitetura e Engenharia](#-arquitetura-e-engenharia)
 * [👩‍⚕️ Autoria & Contato](#️-autoria--contato)
 
@@ -67,7 +68,9 @@ Em questionários gerados por sistemas como o **Nutrio**, as perguntas e as resp
 * Pareia cada bloco de pergunta com sua respectiva resposta através das coordenadas verticais ($Y$), evitando que textos se misturem horizontalmente.
 * Realiza a **fusão inteligente de quebras de página**: perguntas que iniciam no final de uma página e terminam no início da seguinte são recompostas perfeitamente.
 
-NaN
+### 2. Segmentação de Texto Contínuo (Orientações e Condutas)
+Para documentos corridos de orientações nutricionais e metas (como planos alimentares e relatórios de evolução):
+* O algoritmo detecta tópicos, horários de refeição, listas e cabeçalhos em maiúsculas, dividindo as orientações em blocos clínicos objetivos.
 
 ---
 
